@@ -1,0 +1,11 @@
+.bg-color-purple {
+    background-color: rgb(156, 71, 235);
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.bg-color-purple:hover {
+    background-color: rgb(177, 141, 211);
+}
